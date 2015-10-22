@@ -1,0 +1,6 @@
+"helibomb"
+{
+	"base"		"base"
+	"title"		"Helicopter Bomb Chase"
+	"menusystem"	"1"
+}
